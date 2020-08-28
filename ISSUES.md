@@ -18,3 +18,6 @@ _mon lien http://polr.alwaysdata.net/12 ne marche plus !!_
 ### Feedback 6
 _Pourrait-on avoir une version française de l'interface ?_
 
+### Feedback 7
+_Je ne comprends pas la différence entre lien public et private..._
+
